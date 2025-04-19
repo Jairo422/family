@@ -1,0 +1,11 @@
+body {
+    background-image: url("Tecnologia.jpg");
+  }
+  h1 {
+    color: rgb(245, 151, 20);
+    margin-left: 40px;
+  } 
+  p {
+    color: rgb(30, 0, 255);
+
+  }
